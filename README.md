@@ -34,7 +34,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This is just an example Project
+THis is the Example about section
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
